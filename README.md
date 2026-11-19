@@ -1,17 +1,20 @@
-### Hi there 👋
+### Привет! 👋
 
-<!--
-**FaizovaRailya/FaizovaRailya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я разработчик на **C++** и **Python**. Сейчас учусь веб-разработке на Python и Django.
 
-Here are some ideas to get you started:
+- 🌱 Сейчас изучаю: **Django**, **Docker**
+- ✅ Уже знаю: **PostgreSQL**, **Git**
+- 🔭 Работаю над: сайтом-портфолио на Django — [`Railya.dev`](https://github.com/FaizovaRailya)
+- 💬 Спросите меня о: **Python**, **Django**, вёрстке
+- 📫 Как связаться: [faizova.railya@bk.ru](mailto:faizova.railya@bk.ru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Build Status](https://img.shields.io/travis/username/repo.svg?style=flat-square)
+---
+
+**Технологии, с которыми работаю:**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
