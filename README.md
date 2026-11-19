@@ -4,7 +4,7 @@
 
 - 🌱 Сейчас изучаю: **Django**, **Docker**
 - ✅ Уже знаю: **PostgreSQL**, **Git**
-- 🔭 Работаю над: сайтом-портфолио на Django — [`Railya.dev`](https://github.com/FaizovaRailya/FaizovaRailya)
+- 🔭 Работаю над: сайтом-портфолио на Django — [`Railya.dev`](https://github.com/FaizovaRailya/Railyadev.git)
 - 💬 Спросите меня о: **Python**, **Django**, вёрстке
 - 📫 Как связаться: [faizova.railya@bk.ru](mailto:faizova.railya@bk.ru)
 
